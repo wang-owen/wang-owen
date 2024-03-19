@@ -6,10 +6,10 @@
 
 <div>
   <a>
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=wang-owen&&theme=github_dark&show_icons=true&rank_icon=github&include_all_commits=true&hide_title=true&hide_border=true" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=wang-owen&&theme=github_dark&show_icons=true&rank_icon=github&include_all_commits=true&hide_title=true&hide_border=true" />
   </a>
   <a>
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wang-owen&theme=github_dark&hide_border=true&layout=compact&langs_count=6&hide_title=true" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wang-owen&theme=github_dark&hide_border=true&layout=compact&langs_count=6&hide_title=true" />
   </a>
 </div>
 <br>
