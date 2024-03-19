@@ -1,18 +1,24 @@
-### Hi there 👋 I'm Owen
+# Owen Wang
 
 <div align="center">
 
 ---
 
-[![Brook](https://github-readme-stats.vercel.app/api/pin?username=wang-owen&repo=Brook&theme=monokai&hide_border=true)](https://github.com/wang-owen/Brook)
-[![JBKR-Mobile](https://github-readme-stats.vercel.app/api/pin?username=wang-owen&repo=JBKR-Mobile&theme=monokai&hide_border=true)](https://github.com/wang-owen/JBKR-Mobile)
+<div>
+  <a>
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wang-owen&theme=dark&hide_border=true&layout=compact&langs_count=10" />
+  </a>
+</div>
+<br>
+<div>
+  <a href="https://github.com/wang-owen/Brook">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin?username=wang-owen&repo=Brook&theme=dark&hide_border=true)](https://github.com/wang-owen/Brook" />
+  </a>
+  <a href="https://github.com/wang-owen/JBKR-Mobile">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin?username=wang-owen&repo=JBKR-Mobile&theme=dark&hide_border=true)](https://github.com/wang-owen/JBKR-Mobile" />
+  </a>
+</div>
 
 ---
-
-<!--
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wang-owen&count_private=true&show_icons=true&theme=monokai&hide_border=true&count_private=true)
--->
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=wang-owen&theme=monokai&hide_border=true&layout=compact&langs_count=10)
 
 </div>
