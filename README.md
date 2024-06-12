@@ -1,3 +1,17 @@
+# 👋 Hello, I'm Owen
+
+I'm a second year computer science student at the University of Waterloo.
+
+I'm constantly looking for opportunities to learn new languages and technologies, and aim to push my skills *even further beyond*.
+
+Interested in robotics 🦾, real-time applications ⏱️, networking 🌐, computer vision 👁️, and server-side web development 🚀.
+
+Currently seeking an internship for Winter 2025 ❄️.
+
+- 💻 Currently working on [Brook](https://github.com/wang-owen/Brook/)
+- 🕸 Take a peek at my [website](https://wangowen.com)
+- ✉️ Email me at [contact@wangowen.com](mailto:contact@wangowen.com)
+
 <div align="center">
 
 ---
