@@ -8,7 +8,7 @@ Interested in robotics 🦾, real-time applications ⏱️, networking 🌐, com
 
 - 💻 Currently working on [Brook](https://github.com/wang-owen/Brook/)
 - 🕸 Take a peek at my [website](https://wangowen.com)
-- ✉️ Email me at [contact@wangowen.com](mailto:contact@wangowen.com)
+- ✉️ Contact me at [contact@wangowen.com](mailto:contact@wangowen.com)
 
 <div align="center">
 
