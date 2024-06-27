@@ -2,8 +2,6 @@
 
 I'm a second year computer science student at the University of Waterloo.
 
-I'm constantly looking for opportunities to learn new languages and technologies, and aim to push my skills *even further beyond*.
-
 Interested in robotics 🦾, networking 🌐, computer vision 👁️, and web dev 🚀.
 
 - 💻 Currently working on [Brook](https://github.com/wang-owen/Brook/)
