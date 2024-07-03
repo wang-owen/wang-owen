@@ -2,7 +2,7 @@
 
 I'm a second year computer science student at the University of Waterloo.
 
-Interested in robotics 🦾, networking 🌐, computer vision 👁️, and web dev 🚀.
+Interested in full-stack 🚀 and robotics 🦾.
 
 - 💻 Currently working on [Brook](https://github.com/wang-owen/Brook/)
 - 🕸 Take a peek at my [website](https://wangowen.com)
