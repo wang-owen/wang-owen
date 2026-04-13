@@ -1,5 +1,7 @@
-# Hello, I'm Owen
+## Owen Wang
 
-I'm a third year computer science student at the University of Waterloo.
+CS @ Waterloo · Interested in systems programming and performance-critical infrastructure.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wang-owen&&layout=compact&&theme=github_dark)
+Currently at Google. Previously BitGo and Google.
+
+Mostly writing C++ lately.
